@@ -41,3 +41,7 @@ Explanation: The Vulnerability Detector was a key focus of my project because it
 
 Conclusion
 This project successfully set up a security monitoring system using Wazuh SIEM and OSSEC on Ubuntu. The system now provides real-time security insights, log analysis, and intrusion detection to enhance system protection.
+
+# Author
+Andree Salvo |
+Cybersecurity Student at SNHU
